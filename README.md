@@ -1,4 +1,5 @@
 Technical Analysis: Session Persistence Risks in WhatsApp Web & Proposed Security Mitigations
+
 SHA256: 9E278C9E2634F3B156FF2980E1D68451A822EAB89579DAF54E693093CE686BCD
 
 Author
